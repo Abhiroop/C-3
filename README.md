@@ -1,5 +1,7 @@
 # C^3
 
+### Experimental
+
 Calculating correct compilers with Idris.
 
 We can calculate correct compilers with `constructive induction`.
